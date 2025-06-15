@@ -1,0 +1,1 @@
+<?php include 'dashboard/student/index.php'; ?>
